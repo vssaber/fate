@@ -16,4 +16,10 @@ if __name__ == "__main__":
     h2 = Hello(6)
 
     print('hh')
-OKOK
+    print('hh')
+    print('hh')
+    print('hh')
+    print('hh')
+    print('hh')
+    print('hh')
+    print('hh')
