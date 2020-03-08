@@ -15,6 +15,4 @@ if __name__ == "__main__":
     h = Hello(5)
     h2 = Hello(6)
 
-OK
-OK
-nice
+    print('hh')
