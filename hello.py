@@ -14,3 +14,5 @@ if __name__ == "__main__":
     xprint()
     h = Hello(5)
     h2 = Hello(6)
+
+OK
